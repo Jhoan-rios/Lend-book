@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Nueva carpeta\\Lend-book\\Lend-book\\Lend-book.csproj": {}
+    "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Lend-book\\Lend-book\\Lend-book.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Nueva carpeta\\Lend-book\\Lend-book\\Lend-book.csproj": {
+    "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Lend-book\\Lend-book\\Lend-book.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Nueva carpeta\\Lend-book\\Lend-book\\Lend-book.csproj",
+        "projectUniqueName": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Lend-book\\Lend-book\\Lend-book.csproj",
         "projectName": "Lend-book",
-        "projectPath": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Nueva carpeta\\Lend-book\\Lend-book\\Lend-book.csproj",
+        "projectPath": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Lend-book\\Lend-book\\Lend-book.csproj",
         "packagesPath": "C:\\Users\\jhoan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Nueva carpeta\\Lend-book\\Lend-book\\obj\\",
+        "outputPath": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\Lend-book\\Lend-book\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
